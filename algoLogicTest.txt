@@ -1,0 +1,1 @@
+A la fin de l'exécution de cet algorithme la variable calc vaudra 55.
